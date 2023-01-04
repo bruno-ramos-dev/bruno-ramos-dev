@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="display:flex; justify-content:space-evenly">
+<div display="flex" justify-content="space-evenly">
  
  <a href="https://www.instagram.com/brunoramosgtr/" style="margin-right:20px">
     <img align="left" width="50px" src="https://i.ibb.co/wrv10ks/Instagram2.png" alt="instagram" style="vertical-align:top; margin-top:20px;">
