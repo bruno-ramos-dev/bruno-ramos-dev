@@ -7,7 +7,7 @@
  
  <h1 align="left">Bruno Ramos</h1>
  <a href="https://www.instagram.com/brunoramosgtr/">
-    <img align="left" width="95px" style="margin-top:20px" src="https://i.ibb.co/CJJtLFr/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="50px" style="margin-top:20px" src="https://i.ibb.co/wrv10ks/Instagram2.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/brunoramosdev/">
     <img width="50px" height="50px" style="margin-top:20px" src="https://i.ibb.co/84HwYRT/linkedin.png" alt="linkedin" style="vertical-align:top;">
