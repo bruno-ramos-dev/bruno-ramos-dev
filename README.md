@@ -7,13 +7,13 @@
  
  <h1 align="left">Bruno Ramos</h1>
  <a href="https://www.instagram.com/brunoramosgtr/">
-    <img align="left" width="50px" style="margin-top:20px" src="https://i.ibb.co/wrv10ks/Instagram2.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="50px" src="https://i.ibb.co/wrv10ks/Instagram2.png" alt="instagram" style="vertical-align:top; margin-top:20px; margin-right:20px">
   </a> 
   <a href="https://www.linkedin.com/in/brunoramosdev/">
-    <img width="50px" height="50px" style="margin-top:20px; margin-right:10px" src="https://i.ibb.co/84HwYRT/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="50px" src="https://i.ibb.co/84HwYRT/linkedin.png" alt="linkedin" style="vertical-align:top; margin-top:20px; margin-right:20px">
   </a>
     <a href="mailto:88brunoramos@gmail.com">
-    <img width="50px" height="50px" style="margin-top:22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="linkedin" style="vertical-align:top;">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="linkedin" style="vertical-align:top; margin-top:20px">
   </a>
 </div>
 
