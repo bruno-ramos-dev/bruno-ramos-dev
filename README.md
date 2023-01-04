@@ -11,15 +11,15 @@
 
 <div display="flex" justify-content="space-evenly">
  
- <a href="https://www.instagram.com/brunoramosgtr/" style="margin-right:20px">
+ :<a href="https://www.instagram.com/brunoramosgtr/" style="margin-right:20px">
     <img align="left" width="50px" src="https://i.ibb.co/wrv10ks/Instagram2.png" alt="instagram" style="vertical-align:top; margin-top:20px;">
   </a> 
-  <a href="https://www.linkedin.com/in/brunoramosdev/" style="margin-right:20px">
+  :<a href="https://www.linkedin.com/in/brunoramosdev/" style="margin-right:20px">
     <img width="50px" src="https://i.ibb.co/84HwYRT/linkedin.png" alt="linkedin" style="vertical-align:top; margin-top:20px;">
-  </a>
+  </a>:
     <a href="mailto:88brunoramos@gmail.com">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="linkedin" style="vertical-align:top; margin-top:20px">
-  </a>
+  </a>:
 </div>
 
 
