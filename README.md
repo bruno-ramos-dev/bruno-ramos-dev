@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<div style="display:inline-block;" display="flex">
+<div display="inline-block">
  
  <h1 align="left">Bruno Ramos</h1>
  <a href="https://www.instagram.com/brunoramosgtr/">
