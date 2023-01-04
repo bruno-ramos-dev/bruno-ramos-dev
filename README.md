@@ -54,7 +54,7 @@ Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por p
 
 <a href="https://www.instagram.com/brunoramosgtr/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/brunoramosdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
- <a href="mailto:88brunoramos@gmail.com" target="_blank"><img align="left" alt="Gmail" width="22px" src="https://i.ibb.co/S3B8cxN/gmailwhite.png" />
+ <a href="mailto:88brunoramos@gmail.com" target="_blank"><img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 
 ##
 <p align="center">
