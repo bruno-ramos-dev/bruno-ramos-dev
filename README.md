@@ -1,4 +1,4 @@
-<img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/kB1Z0gR/Avatar001.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/mBTYJxQ/Avatar-03.png">
 
 </br>
 </br>
@@ -27,8 +27,8 @@ Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por p
 </p>
 </br>
 </br>
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/167hZgH/Avatar002.png">
+🖥️ Tecnologias e Ferramentas: 
+<img width="400px" align="right" src="https://i.ibb.co/nkdfXTT/Avatar-01.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
