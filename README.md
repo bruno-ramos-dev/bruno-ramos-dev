@@ -18,7 +18,9 @@
 
 ## Hello World!!!
 </br>
-Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por programação e música! Sou engenheiro mecânico e técnico em desenvolvimento de sistemas e entrei para esse universo da programação buscando minha transição de carreira! 
+My name is Bruno Ramos, I love coding, coffee and music! 👨‍💻☕️🎶 </br>
+I'm a Mechanical and Software Engineer ⚙️💻 </br> 
+I joined this universe of software development looking for my career transition! 👷‍♂️➡️👨‍💻
 </br>
 </br>
 </br>
@@ -27,7 +29,7 @@ Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por p
 </p>
 </br>
 </br>
-🖥️ Tecnologias e Ferramentas: 
+🖥️ Technologies & Tools: 
 <img width="400px" align="right" src="https://i.ibb.co/nkdfXTT/Avatar-01.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -40,8 +42,7 @@ Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por p
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Atualmente faço o curso de desenvolvimento de Software com Foco em Back-End na <a href="https://cubos.academy/">Cubos Academy</a>;</p>
- <p align="left">📚 Além do curso tenho estudado também tecnologias utilizadas no Front-End, como HTML, CSS, Javascript e React;</p>
+ <p align="left">📚 I've been studying technologies like HTML, CSS, Javascript, React and AWS.</p>
 </div>
 
 
@@ -49,7 +50,7 @@ Meu nome é Bruno Ramos, atualmente moro em Rio Grande/RS e sou apaixonado por p
 </br>
 </br>
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/brunoramosdev/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios do Github. 🧑‍💻
+📫 You can contact me at [Linkedin](https://www.linkedin.com/in/brunoramosdev/) and you can access the projects I've already developed, which are available here in the Github repositories. 🧑‍💻
 
 </br>
 
